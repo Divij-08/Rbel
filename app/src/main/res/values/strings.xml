@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rbel</string>
+    <string name="lessons_inside">Lessons Inside</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_and_account_sign_up">Don\'t have and account? SIGN UP</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+</resources>
